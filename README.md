@@ -1,2 +1,1 @@
-# Learning-git
-## Ex
+this is an exercice
